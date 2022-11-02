@@ -35,3 +35,8 @@ pip install -r requirements.txt
 ```
 scrapy crawl pep
 ```
+
+---
+## Об авторе
+
+Терехов Никита Алексеевич 
